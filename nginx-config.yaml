@@ -7,7 +7,7 @@ data:
         <title>ECS Deployed nginx Pod</title>
     </head>
     <body>
-        <p style="font-size: 40px;">Generic website<p>
+        <p style="font-size: 40px;">Hoffer Fan Page<p>
     </body>
     </html>
 kind: ConfigMap
