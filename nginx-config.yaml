@@ -7,7 +7,7 @@ data:
         <title>ECS Deployed nginx Pod</title>
     </head>
     <body>
-        <p style="font-size: 40px;">Default Login Page<p>
+        <p style="font-size: 40px;">ECS Demo Page<p>
     </body>
     </html>
 kind: ConfigMap
